@@ -1,0 +1,10 @@
+class City{
+  int id;
+  String name;
+  String imageUrl;
+  bool isPopular;
+
+  City({required this.id, required this.imageUrl, required this.name, required this.isPopular});
+
+
+}
